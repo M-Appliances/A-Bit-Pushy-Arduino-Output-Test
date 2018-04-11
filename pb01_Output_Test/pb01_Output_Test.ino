@@ -4,7 +4,7 @@
 
   --- A Bit Pushy ---
 
-  RELEASE V 1.0.0
+  RELEASE V 1.0.1
 
   Distributed under GNU General Public License V3
 
