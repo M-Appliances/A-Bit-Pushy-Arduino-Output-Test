@@ -17,8 +17,8 @@
 //Declare what pins connect to what bits!
 
 int buzzer = 14;          // This is the pin output leading to your Buzzer
-int LED = 13;             // This is the pin output leading to your LED
-int successLED = 15;      // This is the pin output leading to your LED
+int LED = 13;             // This is the pin output leading to your blue status LED
+int successLED = 15;      // This is the pin output leading to your green success LED
 int alertLED = 12;        // This is the pin output leading to the red alert LED
 
 
